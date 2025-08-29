@@ -1,3 +1,9 @@
+# Cloned copy of munificent/craftinginterpreters, for tests
+craftinginterpreters
+
+# Build directory
+build
+
 # Prerequisites
 *.d
 
